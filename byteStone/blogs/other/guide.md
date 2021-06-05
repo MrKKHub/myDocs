@@ -13,30 +13,6 @@ date: 2021-06-03
 <!-- 3. 你可以打开 [午后南杂](http://recoluan.gitlab.io) 来查看效果。 -->
 :::
 
-## Use
+**这里没有什么有趣的内容, 请移驾别处 QAQ~**
 
-**Build**
-
-```bash
-npm run build
-
-# or
-
-yarn build
-```
-
-**Server**
-
-```bash
-npm run dev
-
-# or
-
-yarn dev
-```
-
-## Play Together
-
-
-## License
-[MIT](https://github.com/recoluan/vuepress-theme-reco/blob/master/LICENSE)
+<!-- [MIT](https://github.com/recoluan/vuepress-theme-reco/blob/master/LICENSE) -->
