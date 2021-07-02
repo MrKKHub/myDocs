@@ -74,7 +74,7 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "越努力越幸运",
+        "title": "午后南杂",
         "desc": "Enjoy when you can, and endure when you must.",
         "email": "1156743527@qq.com",
         "link": "https://www.recoluan.com"
